@@ -1,0 +1,17 @@
+# Ignore All
+/*
+
+# Add Project Files
+!.gitignore
+!.editorconfig
+!README.md
+!SteamNetworking.sln
+!SteamNetworking
+
+# Remove User & Build Files
+[Bb]in
+[Oo]bj
+*.user
+
+# Add Template User Files
+!*.template.*.user
